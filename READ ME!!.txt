@@ -1,0 +1,8 @@
+ukuran gambar sampul
+	- tinggi Max : 575px
+	- lebar Max	 : 600px
+
+letakkan di folder => images/
+dengan format => .jpg
+
+________________________________________________________________________________________________________________________________
